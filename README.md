@@ -18,4 +18,4 @@
 #### leaflet.extras: Funcionalidades adicionais como o plugin de GPS.
 #### htmltools: Customização de estilos CSS e pop-ups.
 
-### 📄 DadosOs dados batimétricos utilizados são provenientes de <https://geoportal.pmf.sc.gov.br/downloads/camadas-em-sig-do-mapa>
+### 📄 Os dados batimétricos utilizados são provenientes de <https://geoportal.pmf.sc.gov.br/downloads/camadas-em-sig-do-mapa>
