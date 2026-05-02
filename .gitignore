@@ -1,0 +1,14 @@
+# Arquivos de histórico e workspace do R
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+.Rproj
+
+# Pastas de pacotes
+.Rlibs
+.libPaths
+
+# Arquivos temporários do sistema
+.DS_Store
+Thumbs.db
