@@ -4,6 +4,9 @@
 
 📄 Os dados batimétricos utilizados são provenientes de <https://geoportal.pmf.sc.gov.br/downloads/camadas-em-sig-do-mapa>
 
+
+<img src="Captura de tela de 2026-05-01 20-56-10.png" alt="Mapa Batimétrico" width="600">
+
 #### Este projeto apresenta um mapa interativo da batimetria da Lagoa da Conceição (Florianópolis, Brasil), desenvolvido em linguagem R utilizando o framework Leaflet.
 
 #### O mapa permite a visualização das profundidades sobrepostas a imagens de satélite e inclui recursos de geolocalização em tempo real.
